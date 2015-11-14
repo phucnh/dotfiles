@@ -1,0 +1,6 @@
+[user]
+  email = nguyen_phuc@cyberagent.co.jp
+  name = Nguyen Hong Phuc (フック）
+[core]
+  excludesfile = ~/.gitignore_global
+

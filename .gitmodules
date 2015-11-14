@@ -1,0 +1,18 @@
+[submodule "tmux/plugins/tpm"]
+	path = tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "tomorrow-theme"]
+	path = tomorrow-theme
+	url = git@github.com:chriskempson/tomorrow-theme.git
+[submodule "tmux-resurrect"]
+	path = tmux/plugins/tmux-resurrect
+	url = git@github.com:tmux-plugins/tmux-resurrect.git
+[submodule "tmux-sensible"]
+	path = tmux/plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "tmux/plugins/tmux-sensible"]
+	path = tmux/plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "tmux/plugins/tmux-resurrect"]
+	path = tmux/plugins/tmux-resurrect
+	url = git@github.com:tmux-plugins/tmux-resurrect.git
